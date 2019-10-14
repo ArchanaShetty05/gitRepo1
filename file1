@@ -1,0 +1,5 @@
+Hello file1 >> file1
+echo Hello file1 >> file1
+$ ls
+ile1
+Hello file1
